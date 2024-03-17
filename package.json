@@ -1,6 +1,6 @@
 {
   "name": "tea-demo-beta-arsen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test package",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/money88maker/tea-demo-beta-arsen.git"
+    "url": "https://github.com/money88maker/tea-demo-beta-arsen.git"
   },
   "dependencies": {
-    "tea-demo-arsen": "1.0.0"
+    "tea-demo-arsen": "1.0.1",
+    "tea-culture-exchange": "1.0.0",
+    "tea-charmix": "0.0.2"
   },
   "author": "Arsen",
   "license": "ISC",
